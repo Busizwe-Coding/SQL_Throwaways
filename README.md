@@ -1,2 +1,2 @@
-# SQL_Throwaways
-SQL tasks for practice
+# UNIWORK2
+Creating a contract system for uni
