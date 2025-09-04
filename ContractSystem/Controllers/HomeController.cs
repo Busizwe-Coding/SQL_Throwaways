@@ -18,6 +18,20 @@ namespace ContractSystem.Controllers
             return View();
         }
 
+        public IActionResult Lecturer_Dashboard()
+        {
+            return View();
+        }
+
+        public IActionResult Manager_Dashboard()
+        {
+            return View();
+        }
+
+        public IActionResult Claim_Tracking()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();

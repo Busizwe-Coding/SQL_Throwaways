@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\me\\source\\repos\\ContractSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|c:\\users\\me\\source\\repos\\contractsystem\\contractsystem\\views\\home\\claim_tracking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|solutionrelative:contractsystem\\views\\home\\claim_tracking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|c:\\users\\me\\source\\repos\\contractsystem\\contractsystem\\views\\home\\manager_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|solutionrelative:contractsystem\\views\\home\\manager_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|c:\\users\\me\\source\\repos\\contractsystem\\contractsystem\\views\\home\\lecturer_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|solutionrelative:contractsystem\\views\\home\\lecturer_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|c:\\users\\me\\source\\repos\\contractsystem\\contractsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|solutionrelative:contractsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|c:\\users\\me\\source\\repos\\contractsystem\\contractsystem\\views\\home\\lecturer dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|solutionrelative:contractsystem\\views\\home\\lecturer dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|c:\\users\\me\\source\\repos\\contractsystem\\contractsystem\\views\\home\\manager dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|solutionrelative:contractsystem\\views\\home\\manager dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|c:\\users\\me\\source\\repos\\contractsystem\\contractsystem\\views\\home\\claim tracking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2EA18E61-3F2A-4B4A-875B-9128DF7FD16B}|ContractSystem\\ContractSystem.csproj|solutionrelative:contractsystem\\views\\home\\claim tracking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Claim Tracking.cshtml",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Claim Tracking.cshtml",
-              "RelativeDocumentMoniker": "ContractSystem\\Views\\Home\\Claim Tracking.cshtml",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Claim Tracking.cshtml",
-              "RelativeToolTip": "ContractSystem\\Views\\Home\\Claim Tracking.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Claim_Tracking.cshtml",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Claim_Tracking.cshtml",
+              "RelativeDocumentMoniker": "ContractSystem\\Views\\Home\\Claim_Tracking.cshtml",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Claim_Tracking.cshtml",
+              "RelativeToolTip": "ContractSystem\\Views\\Home\\Claim_Tracking.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T21:42:05.96Z",
+              "WhenOpened": "2025-09-04T22:39:07.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Manager Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Manager Dashboard.cshtml",
-              "RelativeDocumentMoniker": "ContractSystem\\Views\\Home\\Manager Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Manager Dashboard.cshtml",
-              "RelativeToolTip": "ContractSystem\\Views\\Home\\Manager Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Lecturer_Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Lecturer_Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ContractSystem\\Views\\Home\\Lecturer_Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Lecturer_Dashboard.cshtml",
+              "RelativeToolTip": "ContractSystem\\Views\\Home\\Lecturer_Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T21:41:09.066Z",
+              "WhenOpened": "2025-09-04T22:39:05.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lecturer Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Lecturer Dashboard.cshtml",
-              "RelativeDocumentMoniker": "ContractSystem\\Views\\Home\\Lecturer Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Lecturer Dashboard.cshtml",
-              "RelativeToolTip": "ContractSystem\\Views\\Home\\Lecturer Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Title": "Manager_Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Manager_Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ContractSystem\\Views\\Home\\Manager_Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Manager_Dashboard.cshtml",
+              "RelativeToolTip": "ContractSystem\\Views\\Home\\Manager_Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T21:38:13.046Z",
+              "WhenOpened": "2025-09-04T22:39:01.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ContractSystem\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\me\\source\\repos\\ContractSystem\\ContractSystem\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ContractSystem\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-04T21:20:46.783Z",
               "EditorCaption": ""
