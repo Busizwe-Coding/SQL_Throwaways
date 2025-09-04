@@ -28,6 +28,16 @@ namespace ContractSystem.Controllers
             return View();
         }
 
+        public IActionResult NewClaim()
+        {
+            return View();
+        }
+
+        public IActionResult ManageClaim()
+        {
+            return View();
+        }
+
         public IActionResult Claim_Tracking()
         {
             return View();
