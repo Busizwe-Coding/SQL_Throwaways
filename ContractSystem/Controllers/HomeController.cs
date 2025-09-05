@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Security.Claims;
 using ContractSystem.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -28,9 +29,13 @@ namespace ContractSystem.Controllers
             return View();
         }
 
-        public IActionResult NewClaim()
+        public IActionResult NewClaim(Claims model)
         {
             return View();
+        }
+        public IActionResult NewClaimForm(Claims model)
+        {
+            return RedirectToAction("Lecturer_Dashboard");
         }
 
         public IActionResult ManageClaim()

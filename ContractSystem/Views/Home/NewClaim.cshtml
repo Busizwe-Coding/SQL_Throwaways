@@ -1,8 +1,24 @@
 ﻿@{
     ViewData["Title"] = "Create Claim";
 }
+@model ContractSystem.Models.Claims;
 
 <div class="text-center">
     <h3>Create/Add new monthly claim.</h3>
 
 </div>
+<form asp-action="NewClaimForm" asp-controller="Home">
+    <label>LecId</label>
+    <input class="form-control" type="number" placeholder="0" asp-for="LecId"/>
+
+    <label class="mt-4">Name</label>
+    <input class="form-control" type="text" placeholder="Add name and surname" asp-for="Name" />
+
+    <label class="mt-4">Claim</label>
+    <input class="form-control" type="text" placeholder="Claim name" asp-for="Claim" />
+
+    <label class="mt-4">Amount</label>
+    <input class="form-control" type="number" placeholder="0" asp-for="Amount" />
+
+    <button class="btn btn-primary mt-4" type="submit">Submit</button>
+</form>
